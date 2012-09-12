@@ -1,0 +1,5 @@
+./ttymidi -s /dev/ttyUSB0
+aconnect 128:0 129:0
+
+aconnect -i
+aconnect -o
